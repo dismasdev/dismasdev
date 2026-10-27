@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+   ## Meshery
+   Designed an adaptive load balancer deployment with Meshery:
+   [Adaptive Load Balancer Demo](https://cloud.meshery.io/catalog/content/design/dee5d935-b8ae-473a-ab45-99c8650b31ce)
