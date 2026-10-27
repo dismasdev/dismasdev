@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
    ## Meshery
    Designed an adaptive load balancer deployment with Meshery:
-   [Adaptive Load Balancer Demo](https://cloud.meshery.io/catalog/content/design/dee5d935-b8ae-473a-ab45-99c8650b31ce)
+   [Adaptive Load Balancer Demo](<div><a href="https://cloud.layer5.io/user/00782cc5-cbbd-461a-b81a-f3a23f93091c?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>)
